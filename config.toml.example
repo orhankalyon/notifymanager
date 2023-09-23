@@ -1,0 +1,6 @@
+[generic]
+modules = ["youtube.py"]
+
+[youtube]
+instance = "https://invideous.instance"
+subscriptions = ["@channel1", "@channel2", "@channel3"]
